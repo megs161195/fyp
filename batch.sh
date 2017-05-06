@@ -1,6 +1,5 @@
 #!/bin/sh
-cd fyp
-cd temp
+cd 'fyp/temp'
 git add .
 git commit -am "made changes"
 git push
